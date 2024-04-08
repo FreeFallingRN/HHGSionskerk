@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nieuws - HHG Sionskerk</title>
+		<description><![CDATA[]]></description>
+		<link>http://localhost/berichten</link>
+		<lastBuildDate>Mon, 08 Apr 2024 20:53:26 +0200</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://localhost/berichten?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Boerenerfmarkt</title>
+			<link>http://localhost/berichten/boerenerfmarkt</link>
+			<guid isPermaLink="true">http://localhost/berichten/boerenerfmarkt</guid>
+			<description><![CDATA[<p><img src="http://localhost//images/berichten/hot-air-balloon-festival-954913_1280.jpg" alt="" width="1280" height="853" loading="lazy"></p><p>Op D.V. 13 april hopen we weer onze jaarlijkse Boerenerfmarkt te houden.</p>
+<p>Hier kunt u de bestellijst voor de <a href="http://localhost/images/attachments/Bestelformulier%20BEM%202024_Kaas_def%201.pdf" download="">Kaas &amp; Vlees producten</a> en van de <a href="http://localhost/images/attachments/Bestellijst%20BEM%202024%20Kipproducten_v1p0.pdf" download="">Kip producten</a> downloaden.</p>
+<p> </p>]]></description>
+			<category>Nieuws</category>
+			<pubDate>Mon, 18 Mar 2024 20:29:23 +0100</pubDate>
+		</item>
+	</channel>
+</rss>

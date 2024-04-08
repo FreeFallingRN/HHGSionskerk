@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+localhost	TRUE	/	FALSE	1999999999	12914110a5245caa46e4a470591c022e	iogk8jv4af1oul8kqj7r24uti0
+www.kerktijden.nl	TRUE	/	FALSE	1999999999	ARRAffinity	2facc78c6123c667617ce21b30d0d14a237b3ab3f15825bb2e1896f7deb8e455
+www.kerktijden.nl	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	2facc78c6123c667617ce21b30d0d14a237b3ab3f15825bb2e1896f7deb8e455
+www.kerktijden.nl	TRUE	/	FALSE	1999999999	SameSite	None
+

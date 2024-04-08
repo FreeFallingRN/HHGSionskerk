@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<title type="text">Nieuws - HHG Sionskerk</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://localhost"/>
+	<id>http://localhost/berichten</id>
+	<updated>2024-04-08T20:53:26+02:00</updated>
+	<author>
+		<name>Ben Vos</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://localhost/berichten?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Boerenerfmarkt</title>
+		<link rel="alternate" type="text/html" href="http://localhost/berichten/boerenerfmarkt"/>
+		<published>2024-03-18T20:29:23+01:00</published>
+		<updated>2024-03-18T20:29:23+01:00</updated>
+		<id>http://localhost/berichten/boerenerfmarkt</id>
+		<author>
+			<name>Admin</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://localhost//images/berichten/hot-air-balloon-festival-954913_1280.jpg&quot; alt=&quot;&quot; width=&quot;1280&quot; height=&quot;853&quot; loading=&quot;lazy&quot;&gt;&lt;/p&gt;&lt;p&gt;Op D.V. 13 april hopen we weer onze jaarlijkse Boerenerfmarkt te houden.&lt;/p&gt;
+&lt;p&gt;Hier kunt u de bestellijst voor de &lt;a href=&quot;http://localhost/images/attachments/Bestelformulier%20BEM%202024_Kaas_def%201.pdf&quot; download=&quot;&quot;&gt;Kaas &amp;amp; Vlees producten&lt;/a&gt; en van de &lt;a href=&quot;http://localhost/images/attachments/Bestellijst%20BEM%202024%20Kipproducten_v1p0.pdf&quot; download=&quot;&quot;&gt;Kip producten&lt;/a&gt; downloaden.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://localhost//images/berichten/hot-air-balloon-festival-954913_1280.jpg&quot; alt=&quot;&quot; width=&quot;1280&quot; height=&quot;853&quot; loading=&quot;lazy&quot;&gt;&lt;/p&gt;&lt;p&gt;Op D.V. 13 april hopen we weer onze jaarlijkse Boerenerfmarkt te houden.&lt;/p&gt;
+&lt;p&gt;Hier kunt u de bestellijst voor de &lt;a href=&quot;http://localhost/images/attachments/Bestelformulier%20BEM%202024_Kaas_def%201.pdf&quot; download=&quot;&quot;&gt;Kaas &amp;amp; Vlees producten&lt;/a&gt; en van de &lt;a href=&quot;http://localhost/images/attachments/Bestellijst%20BEM%202024%20Kipproducten_v1p0.pdf&quot; download=&quot;&quot;&gt;Kip producten&lt;/a&gt; downloaden.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+		<category term="Nieuws" />
+	</entry>
+</feed>

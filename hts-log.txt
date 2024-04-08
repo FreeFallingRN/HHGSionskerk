@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 08 Apr 2024 20:52:20 at http://localhost +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost -O1 "C:\My Web Sites\HHG Sionskerk Website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:52:21	Warning: 	Note: due to localhost remote robots.txt rules, links beginning with these path will be forbidden: /administrator/, /bin/, /cache/, /cli/, /components/, /includes/, /installation/, /language/, /layouts/, /libraries/, /logs/, /modules/, /plugins/, /tmp/ (see in the options to disable this)
+20:58:50	Error: 	"Not Found" (404) at link localhost/templates/poc_grant/images/menu-bg.jpg (from localhost/templates/poc_grant/css/template.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 56 seconds : 86 links scanned, 84 files written (10863759 bytes overall) [10671036 bytes received at 25651 bytes/sec], 347559 bytes transferred using HTTP compression in 21 files, ratio 33%, 2.4 requests per connection
+(1 errors, 1 warnings, 0 messages)
